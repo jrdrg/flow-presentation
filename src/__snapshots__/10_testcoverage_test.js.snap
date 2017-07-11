@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`100% test coverage!!! woohoo! should render Buttons in the ButtonWrapper 1`] = `
+<div>
+  <Unknown
+    value={1}
+  />
+</div>
+`;
